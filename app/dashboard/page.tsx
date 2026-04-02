@@ -65,8 +65,11 @@ export default function Dashboard() {
             <a href="/dashboard/portfolio" style={{ padding: '16px', border: '1px solid #eee', borderRadius: '8px', textDecoration: 'none', color: '#1a1a1a' }}>
               Mon portfolio
             </a>
-            <a href="/dashboard/souscription" style={{ padding: '16px', border: '1px solid #eee', borderRadius: '8px', textDecoration: 'none', color: '#1a1a1a' }}>
-              Bulletin de souscription
+            <a href="/dashboard/mes-docs" style={{ padding: '16px', border: '1px solid #eee', borderRadius: '8px', textDecoration: 'none', color: '#1a1a1a' }}>
+              Mes documents
+            </a>
+            <a href="/dashboard/kyc" style={{ padding: '16px', border: '1px solid #eee', borderRadius: '8px', textDecoration: 'none', color: '#1a1a1a' }}>
+              Mon KYC
             </a>
           </div>
         </div>
